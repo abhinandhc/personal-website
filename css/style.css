@@ -1,0 +1,98 @@
+/*Header section*/
+
+.navbar{
+    padding: 1.5rem 4rem 1.5rem 4rem;
+    background-color: #0E3EDA;
+}
+
+/*Profile section*/
+
+#prfl,.card,#prt{
+    background-color: #DA1212;
+    color: white;
+}
+#dp{
+    max-width: 400px;
+    max-height: 500px;
+}
+#nme{
+    padding-top: 100px;
+}
+#hd{
+    font-family: 'Pacifico', cursive;
+    font-size: 3rem; 
+}
+#hed{
+    font-family: 'Hurricane', cursive;
+    font-family: 'Lobster', cursive;
+}
+#prfl,#exp,#edu{
+    padding: 30px 80px 30px 80px;
+}
+
+/*Experience section*/
+h2{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 2.75rem;
+}
+#exp,#edu,form,#div2,#social{
+    background-color: #630A10;
+    color: white;
+}
+#exper{
+    padding: 30px 0 20px 50px;
+}
+/*Education section*/
+.card{
+    margin: 5px;
+}
+.card-body{
+    margin: 10px;
+    padding: 5px 10px 5px 10px;
+}
+.card-title{
+    font-size: medium;
+}
+.certificatess{
+    text-align: center;
+}
+.crtf{
+    max-width: 800px;
+    max-height: 700px;
+}
+.carousel{
+    padding: 40px 80px 40px 160px;
+}
+#educt{
+    margin-top: 30px;
+    margin: 20px;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: black;
+}
+/*Project section*/
+.prot{
+    padding: 20px 0 20px 150px;
+}
+
+/*Footer section*/
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 2.5rem 4rem 1.5rem 4rem;
+}
+
+/*Form section*//*Media section*/
+#formid,#social{
+    padding: 40px 150px 40px 150px;
+}
+#sub{
+    margin: 20px;
+}
+.tags{
+    max-width: 80px;
+    max-height: 60px;
+   padding-right: 30px;
+}
+
